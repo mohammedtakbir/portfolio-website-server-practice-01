@@ -1,0 +1,66 @@
+[
+    {
+        "id": "1",
+        "project_name": "E-Buy",
+        "title": "Used Smartphone Resale website",
+        "screen_shots": [
+            "https://i.ibb.co/KD4NFtC/Screenshot-44.png",
+            "https://i.ibb.co/WVWFB4Q/Screenshot-45.png",
+            "https://i.ibb.co/S74PC40/Screenshot-48.png"
+        ],
+        "descriptions": [
+            "Single page application.",
+            "E-Commerce web platform.",
+            "Three roles are included in the dashboard panel: admin, seller, and buyers.",
+            "Byers can book items and report to the admin, Sellers can add, delete and advertise the items, and the admin can verify a seller or delete as well as the buyers.",
+            "Authenticate with Google, Email, and Password using Firebase.",
+            "Using Stripe for payment systems."
+        ],
+        "tech": "Tailwind CSS | DaisyUI | JavaScript | React | React Router | React Query | Node.js | Express.js | MongoDB | Firebase | Vercel.",
+        "live_site": "https://e-buy-2e0e3.web.app/",
+        "client_site": "https://github.com/mohammedtakbir/Assignment-12-E-Buy-client-site",
+        "server_site": "https://github.com/mohammedtakbir/Assignment-12-E-Buy-server-site"
+    },
+    {
+        "id": "2",
+        "project_name": "Wild Eye",
+        "title": "Photography services review website",
+        "screen_shots": [
+            "https://i.ibb.co/wgFYKvy/Screenshot-50.png",
+            "https://i.ibb.co/92jV2zs/Screenshot-51.png",
+            "https://i.ibb.co/GRS3SCJ/Screenshot-52.png"
+        ],
+        "tech": "Tailwind CSS | Flowbite | JavaScript | React | React Router | Node.js | Express.js | MongoDB | Firebase | Vercel.",
+        "descriptions": [
+            "Single page application.",
+            "Learn wild life photography tips & techniques from this website.",
+            "Only logged-in users can add, edit or delete their service reviews.",
+            "A service provider can upload a service with service details including service image and other service information.",
+            "Authenticate with Google, Email, and Password using Firebase."
+        ],
+        "live_site": "https://wildeye-ca61d.web.app/",
+        "client_site": "https://github.com/mohammedtakbir/Assignment-11-Wild-Eye-client-site",
+        "server_site": "https://github.com/mohammedtakbir/Assignment-11-Wild-Eye-server-site"
+    },
+    {
+        "id": "3",
+        "project_name": "Programming.info",
+        "title": "Online learning platform",
+        "screen_shots": [
+            "https://i.ibb.co/C9kYDjn/Screenshot-55.png",
+            "https://i.ibb.co/dMh6yS1/Screenshot-56.png",
+            "https://i.ibb.co/1Qv8jD5/Screenshot-58.png"
+        ],
+        "tech": "Tailwind CSS | DaisyUI | JavaScript | React | React Router | Node.js | Express.js | Firebase | Vercel.",
+        "descriptions": [
+            "Single page application.",
+            "Learn the most popular programming languages such as Swift, Java, C, C++, Python, etc.",
+            "Without signup or login, user cannot get access the courses because All courses are protected by the private route.",
+            "Implement react-pdf to download pdf files on the browser and server.",
+            "Authenticate with Google, Email, and Password using Firebase."
+        ],
+        "live_site": "https://programming-info-36e8e.web.app/",
+        "client_site": "https://github.com/mohammedtakbir/Assignment-10-Programming.Info-client-site",
+        "server_site": "https://github.com/mohammedtakbir/Assignment-10-Programming.Info-server-site"
+    }
+]
