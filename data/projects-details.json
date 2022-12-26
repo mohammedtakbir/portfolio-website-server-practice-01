@@ -3,18 +3,29 @@
         "id": "1",
         "project_name": "E-Buy",
         "title": "Used Smartphone Resale website",
-        "screen_shots": [
-            "https://i.ibb.co/KD4NFtC/Screenshot-44.png",
-            "https://i.ibb.co/WVWFB4Q/Screenshot-45.png",
-            "https://i.ibb.co/S74PC40/Screenshot-48.png"
-        ],
+        "screen_shots": {
+            "img1": "https://i.ibb.co/HYGPhqP/Screenshot-12.png",
+            "img2": "https://i.ibb.co/y4p9RjM/Screenshot-3.png",
+            "img3": "https://i.ibb.co/cCkp5LT/Screenshot-4.png",
+            "img4": "https://i.ibb.co/KxqfQ5v/Screenshot-5.png",
+            "img5": "https://i.ibb.co/Twr3cH0/Screenshot-13.png",
+            "img6": "https://i.ibb.co/Fg48Kqy/Screenshot-14.png",
+            "img7": "https://i.ibb.co/zV1XtVr/Screenshot-16.png",
+            "img8": "https://i.ibb.co/6Dm6F68/Screenshot-17.png",
+            "img9": "https://i.ibb.co/X538tZ6/Screenshot-18.png",
+            "img10": "https://i.ibb.co/P4r1HFR/Screenshot-19.png",
+            "img11": "https://i.ibb.co/KX49mht/Screenshot-25.png"
+        },
         "descriptions": [
-            "Single page application.",
-            "E-Commerce web platform.",
+            "It is a single-page web application created with React.js for the client side. Also, it has backend functionality created using Node.js, Express.js, and MongoDB.",
             "Three roles are included in the dashboard panel: admin, seller, and buyers.",
-            "Byers can book items and report to the admin, Sellers can add, delete and advertise the items, and the admin can verify a seller or delete as well as the buyers.",
+            "Byers can book items, report to the admin, and pay for their already booked item using Stripe. If the product is already booked, it no longer exists in the products section on the home page and products detail page.",
+            "Sellers can add, delete and advertise the products. If the seller advertises any of the products, then that product will appear on the home page in the discount section. The seller also can delete their added products.",
+            "The admin can verify a seller or delete as well as the buyers. Also, an admin can delete the reported items. If the admin deletes the reported item, it will be removed from everywhere including the home page and seller’s dashboard panel.",
+            "If the admin verifies a seller, a verification sign will appear beside their name.",
             "Authenticate with Google, Email, and Password using Firebase.",
-            "Using Stripe for payment systems."
+            "For a better user experience, I included React-hot-toast, Loader, etc. All the page is desktop, tablet, and mobile responsive.",
+            "Using Stripe for payment systems, MongoDB is used as the Database system."
         ],
         "tech": "Tailwind CSS | DaisyUI | JavaScript | React | React Router | React Query | Node.js | Express.js | MongoDB | Firebase | Vercel.",
         "live_site": "https://e-buy-2e0e3.web.app/",
@@ -25,18 +36,25 @@
         "id": "2",
         "project_name": "Wild Eye",
         "title": "Photography services review website",
-        "screen_shots": [
-            "https://i.ibb.co/wgFYKvy/Screenshot-50.png",
-            "https://i.ibb.co/92jV2zs/Screenshot-51.png",
-            "https://i.ibb.co/GRS3SCJ/Screenshot-52.png"
-        ],
+        "screen_shots": {
+            "img1": "https://i.ibb.co/txLxLRp/Screenshot-27.png",
+            "img2": "https://i.ibb.co/tc7XXcc/Screenshot-28.png",
+            "img3": "https://i.ibb.co/kDMgMWL/Screenshot-29.png",
+            "img4": "https://i.ibb.co/86g29zf/Screenshot-30.png",
+            "img5": "https://i.ibb.co/thTcQJ7/Screenshot-31.png",
+            "img6": "https://i.ibb.co/GHf5Yf8/Screenshot-32.png",
+            "img7": "https://i.ibb.co/LNTnsKP/Screenshot-33.png",
+            "img8": "https://i.ibb.co/LznRWg1/Screenshot-34.png"
+        },
         "tech": "Tailwind CSS | Flowbite | JavaScript | React | React Router | Node.js | Express.js | MongoDB | Firebase | Vercel.",
         "descriptions": [
-            "Single page application.",
-            "Learn wild life photography tips & techniques from this website.",
-            "Only logged-in users can add, edit or delete their service reviews.",
-            "A service provider can upload a service with service details including service image and other service information.",
-            "Authenticate with Google, Email, and Password using Firebase."
+            "It is a photography learning website where a user can review the services they took from the website.",
+            "It is also created with React.js for the client side. Also, it has backend functionality created using Node.js, Express.js, and MongoDB.",
+            "On this website, only logged-in users can add, edit or delete their service reviews because it is secure by JWT technology on the server site.",
+            "In the review section, reviewers can see their previous reviews listed based on the LIFO principle.",
+            "On my review page, a reviewer can see all his/her review and can delete or edit his/her review.",
+            "A service provider can upload a service with service details including service images and other service information. Once a service is added by a service provider, it will show on the services page.",
+            "Authenticate with Google, Email, and Password using Firebase, and MongoDB is used as the Database system."
         ],
         "live_site": "https://wildeye-ca61d.web.app/",
         "client_site": "https://github.com/mohammedtakbir/Assignment-11-Wild-Eye-client-site",
@@ -46,18 +64,22 @@
         "id": "3",
         "project_name": "Programming.info",
         "title": "Online learning platform",
-        "screen_shots": [
-            "https://i.ibb.co/C9kYDjn/Screenshot-55.png",
-            "https://i.ibb.co/dMh6yS1/Screenshot-56.png",
-            "https://i.ibb.co/1Qv8jD5/Screenshot-58.png"
-        ],
+        "screen_shots": {
+            "img1": "https://i.ibb.co/tLqzPPx/Screenshot-40.png",
+            "img2": "https://i.ibb.co/VH1MjCp/Screenshot-42.png",
+            "img3": "https://i.ibb.co/hCXSFpB/Screenshot-43.png",
+            "img4": "https://i.ibb.co/3fxxP9h/Screenshot-44.png",
+            "img5": "https://i.ibb.co/dQ5ckt2/Screenshot-45.png",
+            "img6": "https://i.ibb.co/VSRT8t5/Screenshot-46.png"
+        },
         "tech": "Tailwind CSS | DaisyUI | JavaScript | React | React Router | Node.js | Express.js | Firebase | Vercel.",
         "descriptions": [
-            "Single page application.",
             "Learn the most popular programming languages such as Swift, Java, C, C++, Python, etc.",
-            "Without signup or login, user cannot get access the courses because All courses are protected by the private route.",
+            "On the courses page, all courses are available for the user. A user can learn about course details by clicking a course card.",
+            "The courses page also has a sidebar where a user can learn about course details.",
+            "IWithout signup or login, the user cannot get access the courses because All courses are protected by the private route.",
             "Implement react-pdf to download pdf files on the browser and server.",
-            "Authenticate with Google, Email, and Password using Firebase."
+            "Authenticate with Google, Github, Email, and Password using Firebase."
         ],
         "live_site": "https://programming-info-36e8e.web.app/",
         "client_site": "https://github.com/mohammedtakbir/Assignment-10-Programming.Info-client-site",
